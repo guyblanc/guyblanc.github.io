@@ -141,6 +141,8 @@ def standardconf():
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
+  <link rel="canonical" href="https://guyblanc.github.io/">
+
   
   [windowtitle]
   # used in header for window title.
