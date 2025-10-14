@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo scp index.html gblanc@myth.stanford.edu:~/WWW/

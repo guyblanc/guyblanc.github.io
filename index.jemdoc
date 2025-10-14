@@ -1,0 +1,148 @@
+# jemdoc: title{Guy Blanc}
+
+===  
+= Guy Blanc
+Contact: gblanc (at) stanford.edu
+== 
+~~~
+{}{img_left}{GuyHeadShot.jpg}{guy_head_shot}{200}
+I'm Guy, a PhD student in the [https://theory.stanford.edu/main/index.shtml Stanford CS theory group]. I am extremely fortunate to be advised by [http://theory.stanford.edu/~liyang/ Li-Yang Tan]. My research is generously supported by a [https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/ Jane Street Graduate Research Fellowship].
+
+In my free time, I enjoy [hiking.jpg hiking], [dancing.jpg dancing], and [soccer.jpg playing/watching sports].
+
+~~~
+
+
+== Selected publications
+
+: {[https://arxiv.org/abs/2410.13548 Adaptive and oblivious statistical adversaries are equivalent]} {{<span  class="myname">}}Guy Blanc{{</span>}} and Gregory Valiant\n
+STOC 2025\n
+Invited to STOC 2025 special issue
+
+
+: {[https://arxiv.org/abs/2409.11597 The sample complexity of smooth boosting and the tightness of the hardcore theorem]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Alexandre Hayderi, Caleb Koch, and Li-Yang Tan\n
+FOCS 2024\n
+Invited to FOCS 2024 special issue
+
+
+: {[https://arxiv.org/abs/2302.08661 Subsampling Suffices for Adaptive Data Analysis]} {{<span  class="myname">}}Guy Blanc{{</span>}}\n
+STOC 2023 \n
+Best student paper at STOC 2023\n
+Invited to STOC 2023 special issue\n
+Journal of the ACM, 2025
+
+: {[https://arxiv.org/abs/2109.00637 Properly learning decision trees in almost polynomial time]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Mingda Qiao, and Li-Yang Tan\n
+FOCS 2021\n
+Invited to FOCS 2021 special issue\n
+Journal of the ACM, 2022
+
+
+== All publications
+In my field, we generally order authors alphabetically by last name.
+
+
+: {[noArxivYet.html Is nasty noise actually harder than malicious noise?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Yizhi Huang, Tal Malkin, and Rocco Servedio\n
+SODA 2026, to appear
+
+: {[https://arxiv.org/abs/2507.13222 Computational-Statistical Tradeoffs from NP-hardness
+]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
+FOCS 2025, to appear
+
+: {[https://arxiv.org/abs/2508.02637 Instance-Optimal Uniformity Testing and Tracking]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Clément Canonne, and Erik Waingarten\n
+FOCS 2025, to appear
+
+: {[https://arxiv.org/abs/2410.13548 Adaptive and oblivious statistical adversaries are equivalent]} {{<span  class="myname">}}Guy Blanc{{</span>}} and Gregory Valiant\n
+STOC 2025\n
+*Invited to STOC 2025 special issue*
+
+: {[https://www.arxiv.org/abs/2506.16651 A Distributional-Lifting Theorem for PAC Learning]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Carmen Strassle, and Li-Yang Tan\n
+COLT 2025
+
+: {[https://arxiv.org/abs/2409.11597 The sample complexity of smooth boosting and the tightness of the hardcore theorem]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Alexandre Hayderi, Caleb Koch, and Li-Yang Tan\n
+FOCS 2024\n
+*Invited to FOCS 2024 special issue*
+
+: {[https://arxiv.org/abs/2405.16340 A strong direct sum theorem for distributional query complexity]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
+CCC 2024\n
+*Invited to CCC 2024 special issue*
+
+: {[https://arxiv.org/abs/2307.04039 A Strong Composition Theorem for Junta Complexity and the Boosting of Property Testers]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
+FOCS 2023
+
+: {[https://arxiv.org/abs/2310.01551 Harnessing the Power of Choices in Decision Tree Learning]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Chirag Pabbaraju, Colin Sullivan, Li-Yang Tan, and Mo Tiwari\n
+NeurIPS 2023
+
+: {[https://arxiv.org/abs/2302.08661 Subsampling Suffices for Adaptive Data Analysis]} {{<span  class="myname">}}Guy Blanc{{</span>}}\n
+STOC 2023 \n
+*Best student paper at STOC 2023*\n
+*Invited to STOC 2023 special issue*\n
+*Journal of the ACM, 2025*
+
+: {[https://arxiv.org/abs/2303.16208 Lifting uniform learners via distributional decomposition]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Ali Malik, and Li-Yang Tan\n
+STOC 2023 
+
+: {[https://arxiv.org/abs/2209.03112 Multitask Learning via Shared Features: Algorithms and Hardness]} Konstantina Bairaktari, {{<span  class="myname">}}Guy Blanc{{</span>}}, Li-Yang Tan, Jonathan Ullman, Lydia Zakynthinou\n
+COLT 2023
+
+: {[https://arxiv.org/abs/2211.02257 Certification with an NP Oracle]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Jane Lange, Carmen Strassle, and Li-Yang Tan\n
+ITCS 2023
+
+: {[https://arxiv.org/abs/2207.07072 A query-optimal algorithm for finding counterfactuals]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Jane Lange, and Li-Yang Tan\n
+ICML 2022
+
+: {[https://arxiv.org/abs/2206.08899 Popular decision tree algorithms are provably noise tolerant]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Ali Malik, and Li-Yang Tan\n
+ICML 2022
+
+: {[https://arxiv.org/abs/2111.10352 On the power of adaptivity in statistical adversaries]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Ali Malik, and Li-Yang Tan\n
+COLT 2022
+
+: {[https://arxiv.org/abs/2206.14431 Open problem: Properly learning decision trees in polynomial time?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Mingda Qiao, and Li-Yang Tan\n
+COLT 2022\n
+Open problems track
+
+: {[https://eccc.weizmann.ac.il/report/2022/027/ New Near-Linear Time Decodable Codes Closer to the GV Bound]} {{<span  class="myname">}}Guy Blanc{{</span>}} and Dean Doron\n
+CCC 2022
+
+: {[https://arxiv.org/abs/2012.08735 Reconstructing decision trees]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, and Li-Yang Tan\n
+ICALP 2022
+
+: {[https://arxiv.org/abs/2201.07736 The query complexity of certification]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Jane Lange, and Li-Yang Tan\n
+STOC 2022
+
+: {[https://arxiv.org/abs/2111.01576 Provably efficient, succinct, and precise explanations]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, and Li-Yang Tan\n
+NeurIPS 2021
+
+: {[https://arxiv.org/abs/2106.05579 Multiway online correlated selection]} {{<span  class="myname">}}Guy Blanc{{</span>}} and Moses Charikar\n
+FOCS 2021
+
+: {[https://arxiv.org/abs/2109.00637 Properly learning decision trees in almost polynomial time]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Mingda Qiao, and Li-Yang Tan\n
+FOCS 2021\n
+*Invited to FOCS 2021 special issue*\n
+*Journal of the ACM, 2022*
+
+: {[https://arxiv.org/abs/2107.00819 Decision tree heuristics can fail, even in the smoothed setting]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Mingda Qiao, and Li-Yang Tan\n
+RANDOM 2021
+
+: {[https://arxiv.org/abs/2105.03594 Learning stochastic decision trees]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, and Li-Yang Tan\n
+ICALP 2021
+
+: {[https://arxiv.org/abs/2010.11381 Query strategies for priced information, revisited]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, and Li-Yang Tan\n
+SODA 2021
+
+: {[https://arxiv.org/abs/2010.08633 Universal guarantees for decision tree induction via a higher-order splitting criterion]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Neha Gupta, Jane Lange, and Li-Yang Tan\n
+NeurIPS 2020
+
+: {[https://arxiv.org/abs/2011.01584 Estimating decision tree learnability with polylogarithmic sample complexity]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Neha Gupta, Jane Lange, and Li-Yang Tan\n
+NeurIPS 2020
+
+: {[https://arxiv.org/abs/1904.09080 Implicit regularization for deep neural networks driven by an Ornstein-Uhlenbeck like process]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Neha Gupta, Gregory Valiant, and Paul Valiant\n
+COLT 2020
+
+: {[https://arxiv.org/abs/2006.00743 Provable guarantees for decision tree induction: the agnostic setting]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, and Li-Yang Tan\n
+ICML 2020
+
+: {[https://arxiv.org/abs/1911.07375 Top-down induction of decision trees: rigorous guarantees and inherent limitations]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, and Li-Yang Tan\n
+ITCS 2020
+
+: {[https://arxiv.org/abs/1712.00527 Adaptive sampled softmax with kernel based sampling]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Steffen Rendle\n
+ICML 2018
