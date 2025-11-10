@@ -27,7 +27,8 @@ Invited to STOC 2025 special issue
 
 : {[https://arxiv.org/abs/2409.11597 The sample complexity of smooth boosting and the tightness of the hardcore theorem]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Alexandre Hayderi, Caleb Koch, and Li-Yang Tan\n
 FOCS 2024\n
-Invited to FOCS 2024 special issue
+Invited to FOCS 2024 special issue\n,
+Journal of the ACM, pending minor revisions
 
 
 : {[https://arxiv.org/abs/2302.08661 Subsampling Suffices for Adaptive Data Analysis]} {{<span  class="myname">}}Guy Blanc{{</span>}}\n
@@ -50,6 +51,12 @@ In my field, we generally order authors alphabetically by last name.
 SODA 2026, to appear\n
 *SODA 2026 best paper award*
 
+: {[noArxivYet.html Differential privacy from axioms]} {{<span  class="myname">}}Guy Blanc{{</span>}}, William Pires, and Toniann Pitassi\n
+ITCS 2026, to appear
+
+: {[noArxivYet.html  Samplability makes learning easier]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Jane Lange, Carmen Strassle, and Li-Yang Tan\n
+ITCS 2026, to appear
+
 : {[https://arxiv.org/abs/2507.13222 Computational-Statistical Tradeoffs from NP-hardness
 ]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
 FOCS 2025, to appear
@@ -66,7 +73,8 @@ COLT 2025
 
 : {[https://arxiv.org/abs/2409.11597 The sample complexity of smooth boosting and the tightness of the hardcore theorem]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Alexandre Hayderi, Caleb Koch, and Li-Yang Tan\n
 FOCS 2024\n
-*Invited to FOCS 2024 special issue*
+*Invited to FOCS 2024 special issue*\n
+Journal of the ACM, pending minor revisions
 
 : {[https://arxiv.org/abs/2405.16340 A strong direct sum theorem for distributional query complexity]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
 CCC 2024\n
