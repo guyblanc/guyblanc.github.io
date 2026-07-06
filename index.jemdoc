@@ -47,25 +47,30 @@ Journal of the ACM, 2022
 In my field, we generally order authors alphabetically by last name.
 
 : {[https://arxiv.org/abs/2604.02555 Robust Learning with Optimal Error]
-} {{<span class="myname">}}Guy Blanc{{</span>}}
+} {{<span class="myname">}}Guy Blanc{{</span>}}\n
+FOCS 2026, to appear
+
+: {[noArxivYet.html Quantum Speedups Require Structure or Depth]
+} {{<span class="myname">}}Guy Blanc{{</span>}}, Jordan Doctor, Carmen Strassle, and Li-Yang Tan\n
+FOCS 2026, to appear
 
 
 : {[https://arxiv.org/abs/2511.09763 Is nasty noise actually harder than malicious noise?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Yizhi Huang, Tal Malkin, and Rocco Servedio\n
-SODA 2026, to appear\n
+SODA 2026\n
 *SODA 2026 best paper award*
 
 : {[https://arxiv.org/abs/2511.21876 Differential privacy from axioms]} {{<span  class="myname">}}Guy Blanc{{</span>}}, William Pires, and Toniann Pitassi\n
-ITCS 2026, to appear
+ITCS 2026
 
 : {[https://arxiv.org/abs/2512.01276  Samplability makes learning easier]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Jane Lange, Carmen Strassle, and Li-Yang Tan\n
-ITCS 2026, to appear
+ITCS 2026
 
 : {[https://arxiv.org/abs/2507.13222 Computational-Statistical Tradeoffs from NP-hardness
 ]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
-FOCS 2025, to appear
+FOCS 2025
 
 : {[https://arxiv.org/abs/2508.02637 Instance-Optimal Uniformity Testing and Tracking]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Clément Canonne, and Erik Waingarten\n
-FOCS 2025, to appear
+FOCS 2025
 
 : {[https://arxiv.org/abs/2410.13548 Adaptive and oblivious statistical adversaries are equivalent]} {{<span  class="myname">}}Guy Blanc{{</span>}} and Gregory Valiant\n
 STOC 2025\n
