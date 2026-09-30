@@ -11,7 +11,7 @@ I'm Guy, a [https://stat.mit.edu/academics/norbert-wiener-fellowship/ Norbert Wi
 My research is in theoretical computer science, with an emphasis on learning theory. I'm especially interested in developing theoretical frameworks that accurately capture properties that make learning algorithms effective in practice, such as robustness, privacy, and generalization. More generally, I'm drawn to broad and conceptual questions that are motivated by modern computational challenges. For example, my recent work adds to our understanding of the nature of problems that admit exponential quantum speedups.
 
 
-My work has been recognized with a best paper award at SODA 2026, best student paper award at STOC 2023, special issue invitations at STOC 2025, FOCS 2024, CCC 2024, and FOCS 2021, and a [https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/ Jane Street Graduate Research Fellowship].
+My work has been recognized with a best paper award at SODA 2026, a best student paper award at STOC 2023, special issue invitations at STOC 2025, FOCS 2024, CCC 2024, and FOCS 2021, and a [https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/ Jane Street Graduate Research Fellowship].
 
 
 ~~~
@@ -28,8 +28,7 @@ FOCS 2026, to appear
 FOCS 2026, to appear
 
 : {[https://arxiv.org/abs/2511.09763 Is nasty noise actually harder than malicious noise?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Yizhi Huang, Tal Malkin, and Rocco Servedio\n
-SODA 2026\n
-SODA 2026 best paper award
+SODA 2026, best paper award
 
 : {[https://arxiv.org/abs/2511.21876 Differential privacy from axioms]} {{<span  class="myname">}}Guy Blanc{{</span>}}, William Pires, and Toniann Pitassi\n
 ITCS 2026
@@ -41,8 +40,7 @@ Invited to STOC 2025 special issue
 
 
 : {[https://arxiv.org/abs/2302.08661 Subsampling Suffices for Adaptive Data Analysis]} {{<span  class="myname">}}Guy Blanc{{</span>}}\n
-STOC 2023 \n
-Best student paper at STOC 2023\n
+STOC 2023, best student paper award \n
 Invited to STOC 2023 special issue\n
 Journal of the ACM, 2025
 
@@ -63,8 +61,7 @@ TQC 2026, to appear
 
 
 : {[https://arxiv.org/abs/2511.09763 Is nasty noise actually harder than malicious noise?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Yizhi Huang, Tal Malkin, and Rocco Servedio\n
-SODA 2026\n
-*SODA 2026 best paper award*
+SODA 2026, *best paper award*
 
 : {[https://arxiv.org/abs/2511.21876 Differential privacy from axioms]} {{<span  class="myname">}}Guy Blanc{{</span>}}, William Pires, and Toniann Pitassi\n
 ITCS 2026
@@ -102,8 +99,7 @@ FOCS 2023
 NeurIPS 2023
 
 : {[https://arxiv.org/abs/2302.08661 Subsampling Suffices for Adaptive Data Analysis]} {{<span  class="myname">}}Guy Blanc{{</span>}}\n
-STOC 2023 \n
-*Best student paper at STOC 2023*\n
+STOC 2023, *best studennt paper award* \n
 *Invited to STOC 2023 special issue*\n
 *Journal of the ACM, 2025*
 
