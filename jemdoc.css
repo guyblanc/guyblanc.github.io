@@ -367,3 +367,34 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+table.imgtable {
+    width: 100%;
+}
+
+table.imgtable td.imgcell {
+    padding: 0 1em 0 0;
+    vertical-align: top;
+}
+
+table.imgtable td.imgtext {
+    padding: 0;
+    vertical-align: top;
+}
+
+div.imgframe img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+div.imgcaption {
+    margin-top: 0.3em;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    color: #666;
+    font-size: 0.85em;
+    line-height: 1.25;
+    overflow-wrap: break-word;
+}

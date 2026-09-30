@@ -2,33 +2,42 @@
 
 ===  
 = Guy Blanc
-Contact: gblanc (at) stanford.edu
+Contact: gblanc (at) mit.edu
 == 
 ~~~
-{}{img_left}{GuyHeadShot.jpg}{guy_head_shot}{200}
-I'm Guy, a PhD student in the [https://theory.stanford.edu/main/index.shtml Stanford CS theory group]. I am extremely fortunate to be advised by [http://theory.stanford.edu/~liyang/ Li-Yang Tan]. My research is generously supported by a [https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/ Jane Street Graduate Research Fellowship].
+{}{img_left}{GuyHeadShotGlacierNP.png}{My headshot}{200}{}{}{Photo credit to my wonderful fiancée, Sam. Image taken at Glacier National Park}
+I'm Guy, a [https://stat.mit.edu/academics/norbert-wiener-fellowship/ Norbert Wiener Postdoctoral Fellow] at MIT mentored by [https://people.csail.mit.edu/moitra/ Ankur Moitra]. Before that, I completed my PhD in the [https://theory.stanford.edu/main/index.shtml Stanford CS theory group] where I was extremely fortunate to be advised by [http://theory.stanford.edu/~liyang/ Li-Yang Tan]. During my PhD, my research was generously supported by a [https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/ Jane Street Graduate Research Fellowship].
 
-In my free time, I enjoy [hiking.jpg hiking], [dancing.jpg dancing], and [soccer.jpg playing/watching sports].
+
+My research focuses primarily on learning theory. I both seek to understand the frontier of what algorithms can learn from data and to better formalize the properties that make learning algorithms useful in practice. More broadly, my research brings a conceptual and foundational perspective to modern computational challenges. Recently, this includes an aim to better understand when quantum speedups are possible.
+
+My work has been recognized with a best paper award at SODA 2026, best student paper award at STOC 2023, and special issue invitations at STOC 2025, FOCS 2024, CCC 2024, and FOCS 2024.
+
 
 ~~~
 
 
 == Selected publications
 
+: {[https://arxiv.org/abs/2604.02555 Robust Learning with Optimal Error]
+} {{<span class="myname">}}Guy Blanc{{</span>}}\n
+FOCS 2026, to appear
+
+: {[https://arxiv.org/abs/2608.19158 Quantum Speedups Require Structure or Depth]
+} {{<span class="myname">}}Guy Blanc{{</span>}}, Jordan Docter, Carmen Strassle, and Li-Yang Tan\n
+FOCS 2026, to appear
+
 : {[https://arxiv.org/abs/2511.09763 Is nasty noise actually harder than malicious noise?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Yizhi Huang, Tal Malkin, and Rocco Servedio\n
 SODA 2026\n
 SODA 2026 best paper award
+
+: {[https://arxiv.org/abs/2511.21876 Differential privacy from axioms]} {{<span  class="myname">}}Guy Blanc{{</span>}}, William Pires, and Toniann Pitassi\n
+ITCS 2026
 
 
 : {[https://arxiv.org/abs/2410.13548 Adaptive and oblivious statistical adversaries are equivalent]} {{<span  class="myname">}}Guy Blanc{{</span>}} and Gregory Valiant\n
 STOC 2025\n
 Invited to STOC 2025 special issue
-
-
-: {[https://arxiv.org/abs/2409.11597 The sample complexity of smooth boosting and the tightness of the hardcore theorem]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Alexandre Hayderi, Caleb Koch, and Li-Yang Tan\n
-FOCS 2024\n
-Invited to FOCS 2024 special issue\n
-Journal of the ACM, pending minor revisions
 
 
 : {[https://arxiv.org/abs/2302.08661 Subsampling Suffices for Adaptive Data Analysis]} {{<span  class="myname">}}Guy Blanc{{</span>}}\n
@@ -37,20 +46,15 @@ Best student paper at STOC 2023\n
 Invited to STOC 2023 special issue\n
 Journal of the ACM, 2025
 
-: {[https://arxiv.org/abs/2109.00637 Properly learning decision trees in almost polynomial time]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Jane Lange, Mingda Qiao, and Li-Yang Tan\n
-FOCS 2021\n
-Invited to FOCS 2021 special issue\n
-Journal of the ACM, 2022
-
 
 == All publications
-In my field, we generally order authors alphabetically by last name.
+In my field, we typically order authors alphabetically by last name.
 
 : {[https://arxiv.org/abs/2604.02555 Robust Learning with Optimal Error]
 } {{<span class="myname">}}Guy Blanc{{</span>}}\n
 FOCS 2026, to appear
 
-: {[noArxivYet.html Quantum Speedups Require Structure or Depth]
+: {[https://arxiv.org/abs/2608.19158 Quantum Speedups Require Structure or Depth]
 } {{<span class="myname">}}Guy Blanc{{</span>}}, Jordan Docter, Carmen Strassle, and Li-Yang Tan\n
 FOCS 2026, to appear
 
