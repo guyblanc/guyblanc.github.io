@@ -21,11 +21,13 @@ My work has been recognized with a best paper award at SODA 2026, a best student
 
 : {[https://arxiv.org/abs/2604.02555 Robust Learning with Optimal Error]
 } {{<span class="myname">}}Guy Blanc{{</span>}}\n
-FOCS 2026, to appear
+FOCS 2026, to appear\n
+See also an [https://arxiv.org/abs/2609.17655 excellent followup] by Adam Klivans, Konstantinos Stavropoulos, Sergei Tikhonov, and Arsen Vasilyan
 
 : {[https://arxiv.org/abs/2608.19158 Quantum Speedups Require Structure or Depth]
 } {{<span class="myname">}}Guy Blanc{{</span>}}, Jordan Docter, Carmen Strassle, and Li-Yang Tan\n
-FOCS 2026, to appear
+FOCS 2026, to appear\n
+See also [https://theorydish.blog/2026/09/25/quantum-speedups-require-structure-or-depth/ our blog post]
 
 : {[https://arxiv.org/abs/2511.09763 Is nasty noise actually harder than malicious noise?]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Yizhi Huang, Tal Malkin, and Rocco Servedio\n
 SODA 2026, best paper award
@@ -50,11 +52,13 @@ In my field, we typically order authors alphabetically by last name.
 
 : {[https://arxiv.org/abs/2604.02555 Robust Learning with Optimal Error]
 } {{<span class="myname">}}Guy Blanc{{</span>}}\n
-FOCS 2026, to appear
+FOCS 2026, to appear\n
+See also an [https://arxiv.org/abs/2609.17655 excellent followup] by Adam Klivans, Konstantinos Stavropoulos, Sergei Tikhonov, and Arsen Vasilyan
 
 : {[https://arxiv.org/abs/2608.19158 Quantum Speedups Require Structure or Depth]
 } {{<span class="myname">}}Guy Blanc{{</span>}}, Jordan Docter, Carmen Strassle, and Li-Yang Tan\n
-FOCS 2026, to appear
+FOCS 2026, to appear\n
+See also [https://theorydish.blog/2026/09/25/quantum-speedups-require-structure-or-depth/ our blog post]
 
 : {[https://arxiv.org/abs/2510.03645 The power of quantum circuits in sampling]} {{<span class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Jane Lange, Carmen Strassle, and Li-Yang Tan\n
 TQC 2026, to appear
@@ -86,7 +90,7 @@ COLT 2025
 : {[https://arxiv.org/abs/2409.11597 The sample complexity of smooth boosting and the tightness of the hardcore theorem]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Alexandre Hayderi, Caleb Koch, and Li-Yang Tan\n
 FOCS 2024\n
 *Invited to FOCS 2024 special issue*\n
-Journal of the ACM, pending minor revisions
+Journal of the ACM, to appear
 
 : {[https://arxiv.org/abs/2405.16340 A strong direct sum theorem for distributional query complexity]} {{<span  class="myname">}}Guy Blanc{{</span>}}, Caleb Koch, Carmen Strassle, and Li-Yang Tan\n
 CCC 2024\n
